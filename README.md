@@ -3,7 +3,7 @@ Usuarios es un gestor gráfico que inicializa con los permisos adecuados aplicac
 
 ![usuarios](https://quirinux.ga/img/usuarios.png)
 
-Programado por @charliemartinez
+Programado por [Charlie Martinez](https://github.com/charliemartinez).
 
 Binario disponible en el repositorio oficial de Quirinux GNU/Linux:
 
