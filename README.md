@@ -1,11 +1,20 @@
 # usuarios
-Usuarios es un gestor gráfico que inicializa con los permisos adecuados aplicaciones para gestionar usuarios, grupos y contraseñas. Hecho para Quirinux GNU/Linux, funciona también para Debian y derivadas directas.
+Usuarios es un gestor gráfico que inicializa con los permisos adecuados aplicaciones para gestionar usuarios, grupos y contraseñas.
 
-![usuarios](https://quirinux.ga/img/usuarios.png)
+**Autor:** Charlie Martínez.
 
-Programado por [Charlie Martinez](https://github.com/charliemartinez).
+![actualizar](https://quirinux.ga/img/usuarios.png)
 
-Binario disponible en el repositorio oficial de Quirinux GNU/Linux:
+Hecho para el sistema operativo Quirinux GNU/Linux, compatible con Debian, Ubuntu, Devuan, Etertics, GobMis y otras derivadas.
+
+**Programado en Basch y lenguaje Gambas3 (simil Visual Basic).**
+http://gambas.sourceforge.net/en/main.html
+
+Licencia GPLv2.
+
+Logotipo de Quirinux: Thomas Gaya. 
+
+**Disponible en repositorio oficial de Quirinux GNU/Linux:**
 
 deb https://quirinux.ga/main/buster buster main
 
