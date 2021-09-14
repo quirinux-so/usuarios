@@ -1,7 +1,7 @@
 # usuarios
 Usuarios es un gestor gráfico que inicializa con los permisos adecuados aplicaciones para gestionar usuarios, grupos y contraseñas. Hecho para Quirinux GNU/Linux, funciona también para Debian y derivadas directas.
 
-![usuarios](https://quirinux.ga/img/usuarios.png)
+![usuarios](https://quirinux.ga/img/actualizar.png)
 
 Programado por [Charlie Martinez](https://github.com/charliemartinez).
 
