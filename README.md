@@ -3,7 +3,7 @@ Usuarios es un gestor gráfico que inicializa con los permisos adecuados aplicac
 
 **Autor:** Charlie Martínez.
 
-![actualizar](https://quirinux.ga/img/usuarios.png)
+![actualizar](https://quirinux.ga/img/usuarios.jpg)
 
 Hecho para el sistema operativo Quirinux GNU/Linux, compatible con Debian, Ubuntu, Devuan, Etertics, GobMis y otras derivadas.
 
